@@ -1,0 +1,6 @@
+#box{
+    min-height: 100vh;
+}
+.el-header,.el-main,.el-footer{
+    padding: 0;
+}
